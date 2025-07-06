@@ -4,4 +4,5 @@
   <artifactId>github-practice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <dependencies><dependency>com.springcontext.com</dependency></dependencies> 
 </project>
